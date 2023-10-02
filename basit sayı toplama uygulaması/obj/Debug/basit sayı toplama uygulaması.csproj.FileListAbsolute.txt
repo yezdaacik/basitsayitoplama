@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\bin\Debug\basit sayı toplama uygulaması.exe.config
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\bin\Debug\basit sayı toplama uygulaması.exe
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\bin\Debug\basit sayı toplama uygulaması.pdb
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit_sayı_toplama_uygulaması.Form1.resources
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit_sayı_toplama_uygulaması.Properties.Resources.resources
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.exe
+C:\Users\User\source\repos\basit sayı toplama uygulaması\basit sayı toplama uygulaması\obj\Debug\basit sayı toplama uygulaması.pdb
